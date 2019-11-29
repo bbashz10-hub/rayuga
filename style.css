@@ -28,6 +28,7 @@
     border: none;
     text-align: center;
     background: rgb(208, 207, 209);
+    height: 30px;
 }
 .cart-header {
     font-weight: bold;
